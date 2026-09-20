@@ -1,0 +1,11 @@
+material_sku,quantity_change,location
+SADA-BRG-007,5,WH/Stock
+SADA-MOT-021,10,WH/Stock
+SADA-HRN-014,2,WH/Stock
+SADA-SLP-033,6,WH/Stock
+SADA-MOT-021,-6,WH/Stock
+SADA-XXX-999,3,WH/Stock
+SADA-BRG-007,1,WH/Clean Room
+SADA-ENC-002,2,WH/Stock
+SADA-HRN-014,twelve,WH/Stock
+SADA-HRN-014,1,5,WH/Stock

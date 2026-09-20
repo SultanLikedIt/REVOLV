@@ -1,0 +1,3 @@
+row,material_sku,status,qty_before,qty_after,message
+10,SADA-HRN-014,REJECTED_INVALID_QUANTITY,,,not a plain decimal number: 'twelve'
+11,SADA-HRN-014,REJECTED_MISSING_FIELD,,,"too many fields; an unquoted comma decimal such as 1,5 does this"

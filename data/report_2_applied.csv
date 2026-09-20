@@ -1,0 +1,11 @@
+row,material_sku,status,qty_before,qty_after,message
+2,SADA-BRG-007,OK,12,17,verified by read-back
+3,SADA-MOT-021,OK,30,40,verified by read-back
+4,SADA-HRN-014,OK,8,10,verified by read-back
+5,SADA-SLP-033,OK,0,6,verified by read-back; quant created
+6,SADA-MOT-021,OK,40,34,verified by read-back
+7,SADA-XXX-999,SKIPPED_SKU_NOT_FOUND,,,no active product has this internal reference
+8,SADA-BRG-007,SKIPPED_LOCATION_NOT_FOUND,,,'WH/Clean Room': no internal location with this name
+9,SADA-ENC-002,HELD_LOT_TRACKED,,,"tracking=serial; needs a lot/serial, do it manually"
+10,SADA-HRN-014,OK,10,22,verified by read-back
+11,SADA-HRN-014,OK,22,23.5,verified by read-back

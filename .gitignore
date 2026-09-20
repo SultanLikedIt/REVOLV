@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.odoo_sync_ledger.json
+CLAUDE.md
