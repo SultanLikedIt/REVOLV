@@ -72,7 +72,7 @@ Each holds the window open at the end so the summary can be read.
 | `docs/probe_findings.md` | Everything measured against the live database: schema, the write-path isolation, the three cases where a return value lied, and what cannot be done over the API. Written before the tool, and the reason the tool looks the way it does. |
 | `data/` | Sample input, the reports from a real run, and `sync_demo.xlsx` — the worked example. |
 | `tools/` | The probes that produced `docs/probe_findings.md`. Evidence, not part of the tool. |
-| `tests/` | Offline tests against a fake Odoo client. |
+| `tests/` | Offline tests against a fake Odoo client. Run: `python3 -m unittest discover -s tests -v` |
 
 ### `tools/`
 
